@@ -1,0 +1,6 @@
+matplotlib==3.7.1
+numpy==1.20.0
+pandas==1.2.4
+scikit-learn==0.23.2
+xgboost==1.6.2
+lightgbm==3.3.2

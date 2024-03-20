@@ -1,0 +1,17 @@
+Column Name,Description
+Lead Id,Unique Identifier
+Lead Owner,Internal sales person associated with the lead
+Interest Level,What is lead's interest level? (entered manually)
+Lead created,Lead creation date
+Lead Location(Auto),Automatically detected location
+Creation Source,Creation source of the lead
+Next activity,Date for Next Activity
+What do you do currently ?,Current profile of lead
+What are you looking for in Product ?,Specific requirement from product
+Website Source,Website Source of the Lead
+Lead Last Update time,Last update time for Lead
+Marketing Source,Marketing Source of the Lead
+Lead Location(Manual),Manually entered lead location
+Demo Date,Date for Demo
+Demo Status,Status of demo booked with lead
+Closure date,Lead closing date
